@@ -1,0 +1,5 @@
+A la fecha:Wed Jun 07 2023 18:05:24 GMT-0400 (hora estándar de Chile)
+                      Fue realizada cotización con los siguientes datos:
+                      Cantidad de pesos a convertir: 108000 pesos
+                      Convertido a "dolar" da un total de:
+                      $135.37
